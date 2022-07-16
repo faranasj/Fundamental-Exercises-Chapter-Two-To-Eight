@@ -1,0 +1,16 @@
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\bin\Debug\net5.0\ChapterThree.exe
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\bin\Debug\net5.0\ChapterThree.deps.json
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\bin\Debug\net5.0\ChapterThree.runtimeconfig.json
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\bin\Debug\net5.0\ChapterThree.runtimeconfig.dev.json
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\bin\Debug\net5.0\ChapterThree.dll
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\bin\Debug\net5.0\ref\ChapterThree.dll
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\bin\Debug\net5.0\ChapterThree.pdb
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.csproj.AssemblyReference.cache
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.AssemblyInfoInputs.cache
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.AssemblyInfo.cs
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.dll
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ref\ChapterThree.dll
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.pdb
+C:\Users\Hp\desktop\FundamentalProject\ChapterThree\obj\Debug\net5.0\ChapterThree.genruntimeconfig.cache
