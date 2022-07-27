@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\bin\Debug\net5.0\ChapterEight.exe
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\bin\Debug\net5.0\ChapterEight.deps.json
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\bin\Debug\net5.0\ChapterEight.runtimeconfig.json
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\bin\Debug\net5.0\ChapterEight.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\bin\Debug\net5.0\ChapterEight.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\bin\Debug\net5.0\ref\ChapterEight.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\bin\Debug\net5.0\ChapterEight.pdb
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.AssemblyInfo.cs
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ref\ChapterEight.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.pdb
+C:\Users\Hp\Desktop\FundamentalProject\ChapterEight\obj\Debug\net5.0\ChapterEight.genruntimeconfig.cache
