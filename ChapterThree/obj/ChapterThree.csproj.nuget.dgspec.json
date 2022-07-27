@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj": {
+    "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj",
         "projectName": "ChapterThree",
-        "projectPath": "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterThree\\ChapterThree.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterThree\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

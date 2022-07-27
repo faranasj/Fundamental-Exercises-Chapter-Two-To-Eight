@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj": {
+    "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj",
         "projectName": "ChapterFive",
-        "projectPath": "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterFive\\ChapterFive.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\desktop\\FundamentalProject\\ChapterFive\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\FundamentalProject\\ChapterFive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

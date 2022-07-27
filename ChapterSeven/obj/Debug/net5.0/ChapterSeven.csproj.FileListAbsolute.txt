@@ -1,0 +1,16 @@
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.AssemblyInfo.cs
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\bin\Debug\net5.0\ChapterSeven.exe
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\bin\Debug\net5.0\ChapterSeven.deps.json
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\bin\Debug\net5.0\ChapterSeven.runtimeconfig.json
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\bin\Debug\net5.0\ChapterSeven.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\bin\Debug\net5.0\ChapterSeven.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\bin\Debug\net5.0\ref\ChapterSeven.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\bin\Debug\net5.0\ChapterSeven.pdb
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ref\ChapterSeven.dll
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.pdb
+C:\Users\Hp\Desktop\FundamentalProject\ChapterSeven\obj\Debug\net5.0\ChapterSeven.genruntimeconfig.cache
